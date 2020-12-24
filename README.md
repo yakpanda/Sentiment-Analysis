@@ -11,3 +11,6 @@
 [Friends 감정분석]
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_t2OWsxQOdI8_GiVmoLpDuKLGWrzUmqJ#scrollTo=EddOJgEZ4z-_)
+
+
+[Reference]
