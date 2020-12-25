@@ -15,8 +15,11 @@
 
 
 [Reference]
+
 구현에 참고한 레퍼런스는 다음과 같습니다.
 
-<HuggingFace BERT를 사용한 네이버 영화리뷰 감정분석> https://github.com/deepseasw/bert-naver-movie-review
+1. HuggingFace BERT를 사용한 네이버 영화리뷰 감정분석
+ => https://github.com/deepseasw/bert-naver-movie-review
 
-<Sentiment Analysis with BERT and Transformers by Hugging Face using PyTorch and Python> https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/
+2. Sentiment Analysis with BERT and Transformers by Hugging Face using PyTorch and Python
+ => https://curiousily.com/posts/sentiment-analysis-with-bert-and-hugging-face-using-pytorch-and-python/
